@@ -4,3 +4,10 @@ centralizado {
 texto-justificado{
     text-align: justify;
 }
+a{
+    color: blue;
+}
+#rodape {
+    text-align: center;
+
+}
